@@ -99,7 +99,7 @@ public void addTable(Table table, boolean petOK) {
     
     else if(table.getSeatcount() > tables.get(size-1).getSeatcount() {
            tables.add(size, table);
-            }
+             }
     else{
          for(int i = npStart; i < size; i++)
         {
